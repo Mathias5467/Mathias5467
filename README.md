@@ -1,6 +1,9 @@
 <h1>Hi, I'm Matúš</h1>
-<h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
-<img src="/assets/coding.png">
+<div style="display: flex;">
+  <h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
+  <img src="/assets/coding.png">
+</div>
+
 
 <ul style="list-style: disc">
   <li>
