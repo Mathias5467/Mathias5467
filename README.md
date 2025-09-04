@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matúš</h1>
-<h3 align="center">A passionate frontend developer from Slovakia</h3>
+<h1>Hi, I'm Matúš</h1>
+<h3>A passionate frontend developer from Slovakia</h3>
 
 
 <ul style="list-style: disc">
@@ -7,7 +7,7 @@
     <h4>💻 I’m currently working on <a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">Web app for school subjects in React</a></h4>
   </li>
   <li>
-    <h4>👨‍🎓 I’m currently studying <a href="https://www.fri.uniza.sk/" target="_blank">FRI Uniza</a></h4>
+    <h4>👨‍🎓 I am studying informatics at the <a href="https://www.fri.uniza.sk/" target="_blank">University of Žilina</a></h4>
   </li>
   <li>
     <h4>👨‍💻 Look at my portfolio <a href="https://Mathias5467.github.io/portfolio/" target="_blank">here</a></h4>
