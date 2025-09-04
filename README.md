@@ -1,11 +1,6 @@
 <h1>Hi, I'm Matúš</h1>
 <h3>A passionate frontend developer from Slovakia</h3>
-<style>
-  .icon {
-    width: 1rem;
-    height: 1rem;
-  }
-</style>
+
 
 <ul style="list-style: disc">
   <li>
@@ -25,14 +20,14 @@
 
 <h3>Languages</h3>
 <p> 
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
-  <img  class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> 
+  <img width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
+  <img  width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> 
 </p>
 
 <h3>Web development</h3>
 <p>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
+  <img width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"/>
+  <img width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css"/>
+  <img width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
+  <img width="1rem" height="1rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 </p>
