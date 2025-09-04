@@ -7,13 +7,13 @@
     <h3>💻 I’m currently working on <a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">Web app for school subjects in React</a></h3>
   </li>
   <li>
-    <h4>👨‍🎓 I am studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h4>
+    <h3>👨‍🎓 I am studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
   </li>
   <li>
-    <h4>👨‍💻 Look at my portfolio <a href="https://Mathias5467.github.io/portfolio/" target="_blank">here</a></h4>
+    <h3>👨‍💻 Look at my portfolio <a href="https://Mathias5467.github.io/portfolio/" target="_blank">here</a></h3>
   </li>
   <li>
-    <h4>✉ How to reach me <a href="mailto:matuspytel@gmail.com" target="_blank">matuspytel@gmail.com</a></h4>
+    <h3>✉ How to reach me <a href="mailto:matuspytel@gmail.com" target="_blank">matuspytel@gmail.com</a></h3>
   </li>
 </ul>
 
