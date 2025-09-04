@@ -1,9 +1,6 @@
 <h1>Hi, I'm Matúš</h1>
-<div style="display: flex;">
-  <h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
-  <img src="/assets/coding.png">
-</div>
-
+<h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
+  
 
 <ul style="list-style: disc">
   <li>
@@ -34,3 +31,9 @@
   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathias5467/Mathias5467/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathias5467/Mathias5467/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mathias5467/Mathias5467/output/pacman-contribution-graph.svg">
+</picture>
