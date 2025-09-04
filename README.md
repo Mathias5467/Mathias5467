@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I’m currently studying [FRI Uniza](https://www.fri.uniza.sk/)
 
-- 👨‍💻 Look at my portfolio here [https://Mathias5467.github.io/portfolio/](https://Mathias5467.github.io/portfolio/)
+- 👨‍💻 Look at my portfolio [here](https://Mathias5467.github.io/portfolio/)
 
 - 📫 How to reach me **matuspytel@gmail.com**
 
