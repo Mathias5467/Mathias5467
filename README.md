@@ -7,12 +7,7 @@
 
 - 👨‍💻 Look at my portfolio [here](https://Mathias5467.github.io/portfolio/)
 
-- 📫 How to reach me **matuspytel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/matúš pytel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matúš pytel" height="30" width="40" /></a>
-</p>
+- ✉ How to reach me **matuspytel@gmail.com**
 
 <h3 align="left">Languages</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
