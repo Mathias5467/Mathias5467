@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matúš</h1>
 <h3 align="center">A passionate frontend developer from Slovakia</h3>
 
-<h4>💻 I’m currently working on [Web app for school subjects in React](https://Mathias5467.github.io/fri-uniza/)</h4>
+<h4>💻 I’m currently working on <a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">Web app for school subjects in React</a></h4>
 
 
 - 👨‍🎓 I’m currently studying [FRI Uniza](https://www.fri.uniza.sk/)
