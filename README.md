@@ -4,8 +4,9 @@
 
 <ul style="list-style: disc">
   <li>
-    <h3>💻 I'm currently working on <a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">web application for school subjects in React</a></h3>
-    <h3>💻 <a href="https://Mathias5467.github.io/listenio/" target="_blank">web application for school subjects in React</a></h3>
+    <h3>💻 I'm currently working on:</h3>
+    <h3><a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">web application for school subjects in React</a></h3>
+    <h3><a href="https://Mathias5467.github.io/listenio/" target="_blank">spotify clone</a></h3>
   </li>
   <li>
     <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
