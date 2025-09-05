@@ -2,7 +2,7 @@
 <h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
   
 
-<ul style="list-style: disc">
+<ul>
   <li>
     <h3>💻 I'm currently working on:</h3>
     <h3><a href="https://Mathias5467.github.io/fri-uniza/" target="_blank">Web application for school subjects in React</a></h3>
