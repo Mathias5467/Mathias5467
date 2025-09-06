@@ -16,9 +16,6 @@
     <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
   </li>
   <li>
-    <h3>👨‍💻 Look at my portfolio <a href="https://Mathias5467.github.io/portfolio/" target="_blank">here</a></h3>
-  </li>
-  <li>
     <h3>✉ How to reach me <a href="mailto:matuspytel@gmail.com" target="_blank">matuspytel@gmail.com</a></h3>
   </li>
 </ul>
