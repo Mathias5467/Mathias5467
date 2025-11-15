@@ -27,7 +27,9 @@
 <h3>Languages</h3>
 <p> 
   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
-  <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> 
+  <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"/>
+  <img width="40" height="40" src="https://www.svgrepo.com/show/303412/asm.svg" alt="assembly"/>
 </p>
 
 <h3>Web development</h3>
