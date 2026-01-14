@@ -7,10 +7,7 @@
     <h3>💻 I'm currently working on:</h3>
     <ul>
       <li>
-        <h3><a href="https://Mathias5467.github.io/listenio/" target="_blank">Spotify clone</a></h3>
-      </li>
-      <li>
-        <h3><a href="https://Mathias5467.github.io/taskFlow/" target="_blank">Todo app</a></h3>
+        <h3><a>Weather App - desktop app</a></h3>
       </li>
     </ul>
     
