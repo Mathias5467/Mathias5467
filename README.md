@@ -1,6 +1,7 @@
 <h1>Hi, I'm Matúš</h1>
 <h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
-  
+
+<h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
 
 <h3>Python projects:</h3>
 <ul>
@@ -19,7 +20,7 @@
 </ul>
 
 
-<h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
+
   
   
 
