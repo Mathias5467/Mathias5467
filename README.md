@@ -19,6 +19,13 @@
   <li>Calculator in assembler : <a href="https://github.com/Mathias5467/CalculatorInAssembly" target="blank">https://github.com/Mathias5467/CalculatorInAssembly</a></li>
 </ul>
 
+<h3>Web development projects:</h3>
+<ul>
+  <li>Spotify like app : <a href="https://mathias5467.github.io/listenio/" target="blank">https://mathias5467.github.io/listenio/</a></li>
+  <li>Todo app : <a href="https://mathias5467.github.io/taskFlow/#/projects/new" target="blank">https://mathias5467.github.io/taskFlow/</a> (in progress)</li>
+  <li>Curriculum app for HTML & CSS: <a href="https://mathias5467.github.io/w3school/" target="blank">https://mathias5467.github.io/w3school/</a></li>
+</ul>
+
 
 
   
