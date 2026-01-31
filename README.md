@@ -4,7 +4,10 @@
 
 <ul>
   <li>
-    <h3>💻 I'm currently working on:</h3>
+    <div>
+      <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+      <h3>Python projects:</h3>
+    </div>
     <ul>
       <li>
         <h3><a>Weather App - desktop app</a></h3>
