@@ -4,7 +4,7 @@
 
 <h3>Python projects:</h3>
 <ul>
-  <li>Weather app: <a href="https://www.fri.uniza.sk/](https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
+  <li>Weather app : <a href="https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
 </ul>
 <ul>
   <li>
