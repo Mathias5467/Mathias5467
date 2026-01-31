@@ -2,26 +2,20 @@
 <h3>I am passionate about work and responsible.<br> Working in a team is great opportunity for me<br> to learn new things and also help my colleagues.</h3>
   
 
+<h3>Python projects:</h3>
+<ul>
+  <li>Weather app: <a href="https://www.fri.uniza.sk/](https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
+</ul>
 <ul>
   <li>
-    <div>
-      <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
-      <h3>Python projects:</h3>
-    </div>
-    <ul>
-      <li>
-        <h3><a>Weather App - desktop app</a></h3>
-      </li>
-    </ul>
-    
-  </li>
-  <li>
-    <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
-  </li>
-  <li>
-    <h3>✉ How to reach me <a href="mailto:matuspytel@gmail.com" target="_blank">matuspytel@gmail.com</a></h3>
+    <h3><a>Weather App - desktop app</a></h3>
   </li>
 </ul>
+
+
+<h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
+  
+  
 
 <h3>Tools</h3>
 <p>
