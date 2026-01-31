@@ -6,10 +6,16 @@
 <ul>
   <li>Weather app : <a href="https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
 </ul>
+
+<h3>Java projects:</h3>
 <ul>
-  <li>
-    <h3><a>Weather App - desktop app</a></h3>
-  </li>
+  <li>RPG game "Battle Royal" : <a href="https://github.com/Mathias5467/BattleRoyal" target="blank">https://github.com/Mathias5467/BattleRoyal</a></li>
+  <li>Tetris : <a href="https://github.com/Mathias5467/Tetris" target="blank">https://github.com/Mathias5467/Tetris</a></li>
+</ul>
+
+<h3>Assembler projects:</h3>
+<ul>
+  <li>Calculator in assembler : <a href="https://github.com/Mathias5467/CalculatorInAssembly" target="blank">https://github.com/Mathias5467/CalculatorInAssembly</a></li>
 </ul>
 
 
