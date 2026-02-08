@@ -6,6 +6,9 @@
 <h3>Python projects:</h3>
 <ul>
   <li>Weather app : <a href="https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
+  <li>Finance tracking app : <a href="https://github.com/Mathias5467/FinancialApp/tree/main" target="blank">https://github.com/Mathias5467/FinancialApp/tree/main</a></li>
+
+  
 </ul>
 
 <h3>Java projects:</h3>
