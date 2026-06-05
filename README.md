@@ -4,10 +4,11 @@
 <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
 
 <h3>Web development projects:</h3>
-* **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Code](https://github.com/your-github-username/wedding-planner)
-* **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Code](https://github.com/your-github-username/ds-recommender)
-* **Listenio (Spotify Clone)** — [Live Demo](https://mathias5467.github.io/listenio/) | [GitHub Code](https://github.com/your-github-username/listenio)
-* **HTML & CSS Curriculum App** — [Live Demo](https://mathias5467.github.io/w3school/) | [GitHub Code](https://github.com/your-github-username/w3school)
+
+* **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Code](https://github.com/mathias5467/wedding-planner)
+* **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Code](https://github.com/mathias5467/ds-recommender)
+* **Listenio (Spotify Clone)** — [Live Demo](https://mathias5467.github.io/listenio/) | [GitHub Code](https://github.com/mathias5467/listenio)
+* **HTML & CSS Curriculum App** — [Live Demo](https://mathias5467.github.io/w3school/) | [GitHub Code](https://github.com/mathias5467/w3school)
 
 <h3>Java projects:</h3>
 <ul>
