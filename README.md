@@ -5,8 +5,8 @@
 
 <h3>Web development projects:</h3>
 
-* **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repository]([https://github.com/mathias5467/wedding-planner](https://github.com/Mathias5467/WeddingPlanner))
-* **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Repository]([https://github.com/mathias5467/ds-recommender](https://github.com/Mathias5467/ds-recommender))
+* **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/WeddingPlanner)
+* **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/ds-recommender)
 * **Listenio (Spotify Clone)** — [Live Demo](https://mathias5467.github.io/listenio/) | [GitHub Repository](https://github.com/Mathias5467/listenio)
 * **HTML & CSS Curriculum App** — [Live Demo](https://mathias5467.github.io/w3school/) | [GitHub Repository](https://github.com/mathias5467/w3school)
 
