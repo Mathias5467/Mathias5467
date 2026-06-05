@@ -3,13 +3,13 @@
 
 <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
 
-<h3>Python projects:</h3>
-<ul>
-  <li>Weather app : <a href="https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
-  <li>Finance tracking app : <a href="https://github.com/Mathias5467/FinancialApp/tree/main" target="blank">https://github.com/Mathias5467/FinancialApp/tree/main</a></li>
-
-  
-</ul>
+<h3>Web development projects:</h3>
+| Project | Live Demo | Source Code |
+| :--- | :--- | :--- |
+| **💍 Wedding Planner App** | [Live Website](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repo](https://github.com/your-github-username/wedding-planner) |
+| **📊 Data Structure Recommender** | [Live Website](https://ds-recommender.vercel.app/) | [GitHub Repo](https://github.com/your-github-username/ds-recommender) |
+| **🎵 Listenio (Spotify Clone)** | [Live Website](https://mathias5467.github.io/listenio/) | [GitHub Repo](https://github.com/your-github-username/listenio) |
+| **📚 HTML & CSS Curriculum App** | [Live Website](https://mathias5467.github.io/w3school/) | [GitHub Repo](https://github.com/your-github-username/w3school) |
 
 <h3>Java projects:</h3>
 <ul>
@@ -22,13 +22,12 @@
   <li>Calculator in assembler : <a href="https://github.com/Mathias5467/CalculatorInAssembly" target="blank">https://github.com/Mathias5467/CalculatorInAssembly</a></li>
 </ul>
 
-<h3>Web development projects:</h3>
+<h3>Python projects:</h3>
 <ul>
-  <li>Wedding planner app: <a href="" target="blank"></a></li>
-  <li>Spotify like app : <a href="https://mathias5467.github.io/listenio/" target="blank">https://mathias5467.github.io/listenio/</a></li>
-  <li>Todo app : <a href="https://mathias5467.github.io/taskFlow/#/projects/new" target="blank">https://mathias5467.github.io/taskFlow/</a> (in progress)</li>
-  <li>Curriculum app for HTML & CSS: <a href="https://mathias5467.github.io/w3school/" target="blank">https://mathias5467.github.io/w3school/</a></li>
+  <li>Weather app : <a href="https://github.com/Mathias5467/weather-app" target="blank">https://github.com/Mathias5467/weather-app</a></li>
+  <li>Finance tracking app : <a href="https://github.com/Mathias5467/FinancialApp/tree/main" target="blank">https://github.com/Mathias5467/FinancialApp/tree/main</a></li>
 </ul>
+
 
 
 
