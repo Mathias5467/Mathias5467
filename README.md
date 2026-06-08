@@ -7,6 +7,7 @@
 
 * **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/WeddingPlanner)
 * **Wedding disposeable camera** — [GitHub Repository](https://github.com/Mathias5467/wedding-photo-share)
+* **Finance tracking app Metron** — [Live Demo](https://finance-tracker-lovat-pi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/finance-tracker)
 * **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/ds-recommender)
 * **Listenio (Spotify Clone)** — [Live Demo](https://mathias5467.github.io/listenio/) | [GitHub Repository](https://github.com/Mathias5467/listenio)
 * **HTML & CSS Curriculum App** — [Live Demo](https://mathias5467.github.io/w3school/) | [GitHub Repository](https://github.com/mathias5467/w3school)
