@@ -4,6 +4,7 @@
 <h3>👨‍🎓 I'm studying informatics at the <a href="https://www.fri.uniza.sk/" target="blank">University of Žilina</a></h3>
 
 <h3>Web development projects:</h3>
+
 * **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/WeddingPlanner)
 * **Wedding disposeable camera** — [GitHub Repository](https://github.com/Mathias5467/wedding-photo-share)
 * **Data Structure Recommender** — [Live Demo](https://ds-recommender.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/ds-recommender)
