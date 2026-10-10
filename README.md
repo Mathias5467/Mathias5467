@@ -6,7 +6,7 @@
 <h3>Web development projects:</h3>
 
 
-* **C.O.R.T.E.X.** — [GitHub Repository](https://github.com/Mathias5467/C.O.R.T.E.X.)
+* **C.O.R.T.E.X.** — [GitHub Repository](https://github.com/Mathias5467/Cortex)
 * **Wedding Planner App** — [Live Demo](https://wedding-planner-ashy-xi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/WeddingPlanner)
 * **Wedding disposeable camera** — [GitHub Repository](https://github.com/Mathias5467/wedding-photo-share)
 * **Finance tracking app Metron** — [Live Demo](https://finance-tracker-lovat-pi.vercel.app/) | [GitHub Repository](https://github.com/Mathias5467/finance-tracker)
